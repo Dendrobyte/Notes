@@ -1,4 +1,4 @@
-# Role-Playing Games - 11/4/19
+# Role-Playing Games
 
 ## Key Concepts
 

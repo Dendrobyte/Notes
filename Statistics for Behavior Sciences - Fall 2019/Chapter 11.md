@@ -35,6 +35,6 @@ The two types of successive design are _before-after_ design, which are great bu
 
 When people get better at something you're testing, people get better at it. You test until they get better and pleateau, and then if you do it long enough people fatigue and get worse. Practice and fatigue are considered _simple order effects_- these are the reason you might not want things to be in the same order.
 
-Using counterbalancing, you give people conditions in alternating patterns (AB, BA, AB, BA, etc.) for each participant. This helps get rid of the simple order effects, but not all (those are called _carryover effects_ which are essentially more complicated simple order effects; you carry over the effects of one condition into the next condition)
+Using counterbalancing, you give people conditions in alternating patterns (AB, BA, AB, BA, etc.) for each participant. This helps get rid of the simple order effects (e.g. fatigue), but not all (those are called _carryover effects_ which are essentially more complicated simple order effects; you carry over the effects of one condition into the next condition)
 
-Sometimes, you have to use a matched pairs design, which uses different people. There are _experimental_ designs, having matched the people in some way (what's relevant?), and _natural_ designs (randomly associated)
+Sometimes, you have to use a matched pairs design, which uses different people. There are _experimental_ designs, having matched the people in some way (what's relevant?), and _natural_ designs (randomly associated). _To get rid of carryover effects_, a researcher would need to use a matched pairs design.

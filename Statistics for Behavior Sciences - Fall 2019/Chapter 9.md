@@ -35,7 +35,7 @@ To figure out if a correlation is strong...
 - $.5+$ is considered large
 - These all apply in the negative direction as well.
 
-## Testing Pearsons' _r_ for signficance
+## Testing Pearsons' _r_ for significance
 
 $r$ is for sample, $\rho$ is for population. All you hae to do, is look up the $r$ critical value on the chart! Easy mode.
 
